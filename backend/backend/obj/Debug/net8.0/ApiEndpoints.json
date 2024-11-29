@@ -1,0 +1,288 @@
+[
+  {
+    "ContainingType": "Client_Homework.Server.Controllers.ApplicationUserController",
+    "Method": "GetUser",
+    "RelativePath": "api/ApplicationUser/{username}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Client_Homework.Server.Controllers.ApplicationUserController",
+    "Method": "GetUserById",
+    "RelativePath": "api/ApplicationUser/id/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Client_Homework.Server.Controllers.ApplicationUserController",
+    "Method": "Login",
+    "RelativePath": "api/ApplicationUser/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Client_Homework.Server.DTOs.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Client_Homework.Server.Controllers.ApplicationUserController",
+    "Method": "Register",
+    "RelativePath": "api/ApplicationUser/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Client_Homework.Server.Models.ApplicationUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Client_Homework.Server.Controllers.ApplicationUserController",
+    "Method": "DeleteAccount",
+    "RelativePath": "api/ApplicationUser/username/{username}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Client_Homework.Server.Controllers.ReviewListController",
+    "Method": "GetReview",
+    "RelativePath": "api/ReviewList/{userId}/{movieId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "movieId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Client_Homework.Server.Controllers.ReviewListController",
+    "Method": "DeleteReview",
+    "RelativePath": "api/ReviewList/{userId}/{movieId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "movieId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Client_Homework.Server.Controllers.ReviewListController",
+    "Method": "AddReview",
+    "RelativePath": "api/ReviewList/AddReview",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reviewRequest",
+        "Type": "Client_Homework.Server.DTOs.ReviewRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Client_Homework.Server.Controllers.ReviewListController",
+    "Method": "EditReview",
+    "RelativePath": "api/ReviewList/EditReview",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reviewRequest",
+        "Type": "Client_Homework.Server.DTOs.ReviewRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Client_Homework.Server.Controllers.ReviewListController",
+    "Method": "GetReviewsForMovie",
+    "RelativePath": "api/ReviewList/movie/{movieId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "movieId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Client_Homework.Server.Controllers.ReviewListController",
+    "Method": "GetReviewsByUser",
+    "RelativePath": "api/ReviewList/user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Client_Homework.Server.Controllers.WatchListController",
+    "Method": "MarkAsWatched",
+    "RelativePath": "api/WatchList/{movieId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "movieId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Client_Homework.Server.Controllers.WatchListController",
+    "Method": "GetWatchList",
+    "RelativePath": "api/WatchList/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Client_Homework.Server.Controllers.WatchListController",
+    "Method": "RemoveFromWatchList",
+    "RelativePath": "api/WatchList/{userId}/{movieId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "movieId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Client_Homework.Server.Controllers.WatchListController",
+    "Method": "AddToWatchList",
+    "RelativePath": "api/WatchList/AddToWatchList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "movieId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Client_Homework.Server.Controllers.WatchListController",
+    "Method": "IsMovieWatched",
+    "RelativePath": "api/WatchList/IsMovieWatched",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "movieId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

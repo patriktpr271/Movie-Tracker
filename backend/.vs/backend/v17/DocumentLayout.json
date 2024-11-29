@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\School\\Semester_5\\Kliens\\F\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|d:\\school\\semester_5\\kliens\\f\\backend\\backend\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|solutionrelative:backend\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|d:\\school\\semester_5\\kliens\\f\\backend\\backend\\controllers\\reviewlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|solutionrelative:backend\\controllers\\reviewlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|d:\\school\\semester_5\\kliens\\f\\backend\\backend\\controllers\\applicationusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|solutionrelative:backend\\controllers\\applicationusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|d:\\school\\semester_5\\kliens\\f\\backend\\backend\\dtos\\reviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|solutionrelative:backend\\dtos\\reviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|d:\\school\\semester_5\\kliens\\f\\backend\\backend\\models\\reviewlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|solutionrelative:backend\\models\\reviewlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|d:\\school\\semester_5\\kliens\\f\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|d:\\school\\semester_5\\kliens\\f\\backend\\backend\\dataaccess\\dbinitalizer\\dbinitalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|solutionrelative:backend\\dataaccess\\dbinitalizer\\dbinitalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|d:\\school\\semester_5\\kliens\\f\\backend\\backend\\dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|solutionrelative:backend\\dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|d:\\school\\semester_5\\kliens\\f\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|d:\\school\\semester_5\\kliens\\f\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|d:\\school\\semester_5\\kliens\\f\\backend\\backend\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|solutionrelative:backend\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|d:\\school\\semester_5\\kliens\\f\\backend\\backend\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|solutionrelative:backend\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|d:\\school\\semester_5\\kliens\\f\\backend\\backend\\dataaccess\\dbinitalizer\\idbinitalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|solutionrelative:backend\\dataaccess\\dbinitalizer\\idbinitalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|d:\\school\\semester_5\\kliens\\f\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|d:\\school\\semester_5\\kliens\\f\\backend\\backend\\migrations\\20241125133914_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD0825-9DCC-4611-B797-A801A377CFF2}|backend\\backend.csproj|solutionrelative:backend\\migrations\\20241125133914_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewRequest.cs",
+              "DocumentMoniker": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\DTOs\\ReviewRequest.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\ReviewRequest.cs",
+              "ToolTip": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\DTOs\\ReviewRequest.cs",
+              "RelativeToolTip": "backend\\DTOs\\ReviewRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:25:53.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "backend\\DTOs\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:25:52.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDbInitalizer.cs",
+              "DocumentMoniker": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\DataAccess\\DbInitalizer\\IDbInitalizer.cs",
+              "RelativeDocumentMoniker": "backend\\DataAccess\\DbInitalizer\\IDbInitalizer.cs",
+              "ToolTip": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\DataAccess\\DbInitalizer\\IDbInitalizer.cs",
+              "RelativeToolTip": "backend\\DataAccess\\DbInitalizer\\IDbInitalizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:25:06.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbInitalizer.cs",
+              "DocumentMoniker": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\DataAccess\\DbInitalizer\\DbInitalizer.cs",
+              "RelativeDocumentMoniker": "backend\\DataAccess\\DbInitalizer\\DbInitalizer.cs",
+              "ToolTip": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\DataAccess\\DbInitalizer\\DbInitalizer.cs",
+              "RelativeToolTip": "backend\\DataAccess\\DbInitalizer\\DbInitalizer.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAApwC0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:25:04.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewListController.cs",
+              "DocumentMoniker": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\Controllers\\ReviewListController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ReviewListController.cs",
+              "ToolTip": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\Controllers\\ReviewListController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ReviewListController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwKYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:24:52.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WatchListController.cs",
+              "DocumentMoniker": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\Controllers\\WatchListController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\WatchListController.cs",
+              "ToolTip": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\Controllers\\WatchListController.cs",
+              "RelativeToolTip": "backend\\Controllers\\WatchListController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:24:48.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "backend\\DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:23:51.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUserController.cs",
+              "DocumentMoniker": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\Controllers\\ApplicationUserController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ApplicationUserController.cs",
+              "ToolTip": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\Controllers\\ApplicationUserController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ApplicationUserController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAkwHEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:22:51.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T13:31:37.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewList.cs",
+              "DocumentMoniker": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\Models\\ReviewList.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\ReviewList.cs",
+              "ToolTip": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\Models\\ReviewList.cs",
+              "RelativeToolTip": "backend\\Models\\ReviewList.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:25:57.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "backend\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "backend\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T14:05:50.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241125133914_init.cs",
+              "DocumentMoniker": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\Migrations\\20241125133914_init.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20241125133914_init.cs",
+              "ToolTip": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\Migrations\\20241125133914_init.cs",
+              "RelativeToolTip": "backend\\Migrations\\20241125133914_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:39:14.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "backend.csproj",
+              "DocumentMoniker": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\backend.csproj",
+              "RelativeDocumentMoniker": "backend\\backend.csproj",
+              "ToolTip": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\backend.csproj",
+              "RelativeToolTip": "backend\\backend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T13:22:44.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:21:33.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\School\\Semester_5\\Kliens\\F\\backend\\backend\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "backend\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:25:56.434Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
