@@ -41,14 +41,3 @@ A full-stack web application built with **React** and **C# .NET** that allows us
 
 **Database:**
 - Azure SQL Database
-
-## 📊 API Endpoints
-
-### User Authentication
-- `POST /api/Auth/register` - User Registration
-- `POST /api/Auth/login` - User Login
-
-### Movie Management
-- `GET /api/Movies/search?query={query}` - Search Movies
-- `POST /api/WatchList` - Add to Watchlist
-- `GET /api/ReviewList/movie/{movieId}` - Get Reviews for a Movie
